@@ -1,6 +1,5 @@
 body {
   background-color: black;
-  margin: auto;
   text-align: center;
   font-family: Verdana;
 }
@@ -28,6 +27,10 @@ h3 {
 }
 
 p {
+  text-align: center;
+}
+
+#copy {
   color: Gray;
   text-align: right;
 }
